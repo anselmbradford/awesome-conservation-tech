@@ -1,6 +1,6 @@
 # Awesome ConservationTech
 
-> An awesome list of technology helping to understand and conserve our natural resources.
+> An awesome list of technology and organizations helping to understand and conserve our natural resources.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
