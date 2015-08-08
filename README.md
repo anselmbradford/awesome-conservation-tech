@@ -34,7 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [NOAA Geophysical Fluid Dynamics Laboratory (GFDL)](https://github.com/noaa-gfdl)
 
 ### United Kingdom
-- [UK Department of Energy and Climate Change (DECC)](https://github.com/decc)
+- [Department of Energy and Climate Change (DECC)](https://github.com/decc)
 
 ## Groups
 - [Nerds for Nature](https://github.com/nerdsfornature)
