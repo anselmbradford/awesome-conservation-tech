@@ -22,6 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Hardware
 - [Open Energy Monitor](https://github.com/openenergymonitor) - Open-source energy monitoring tools.
+- [Conservation Drones](http://conservationdrones.org) - Share knowledge of building and using low-cost unmanned aerial vehicles for conservation-related applications.
 
 ## Government GitHub
 ### United States
