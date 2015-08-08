@@ -6,7 +6,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
-- [Biodiversity(#biodiversity)
+- [Biodiversity](#biodiversity)
 - [Climate](#climate)
 - [Hardware](#hardware)
 - [Government GitHub](#government-github)
