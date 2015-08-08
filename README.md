@@ -14,14 +14,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Trails](#trails)
 
 ## Biodiversity
-- [Atlas of Living Australia](https://github.com/AtlasOfLivingAustralia/) - 
+- [Atlas of Living Australia](https://github.com/AtlasOfLivingAustralia/)
 - [Macaulay Library at the Cornell Lab of Ornithology](https://github.com/MacaulayLibrary) - World’s largest natural sound archive. Digitized bird calls.
 
 ## Climate
 - [Apache Open Climate Workbench](https://github.com/apache/climate)
 
 ## Hardware
-- [Open-source energy monitoring tools](https://github.com/openenergymonitor)
+- [Open Energy Monitor](https://github.com/openenergymonitor) - Open-source energy monitoring tools.
 
 ## Government GitHub
 ### United States
