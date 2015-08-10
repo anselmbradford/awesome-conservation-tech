@@ -17,6 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Biodiversity
 - [Atlas of Living Australia](https://github.com/AtlasOfLivingAustralia/)
 - [Macaulay Library at the Cornell Lab of Ornithology](https://github.com/MacaulayLibrary) - World’s largest natural sound archive. Digitized bird calls.
+- [Global Biodiversity Information Facility](https://github.com/gbif) - Free and Open Access to Biodiversity Data.
 
 ## Climate
 - [Apache Open Climate Workbench](https://github.com/apache/climate)
