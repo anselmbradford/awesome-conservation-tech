@@ -10,7 +10,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Climate](#climate)
 - [Hardware](#hardware)
 - [Government GitHub](#government-github)
-- [Groups](#groups)
 - [Organization GitHub](#organization-github)
 - [Trails](#trails)
 
@@ -39,12 +38,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### United Kingdom
 - [Department of Energy and Climate Change (DECC)](https://github.com/decc)
 
-## Groups
-- [Nerds for Nature](https://github.com/nerdsfornature)
-
 ## Organization GitHub
 ### Netherlands
 - [Naturalis Biodiversity Center](https://github.com/naturalis)
+
+### United States
+- [Nerds for Nature](https://github.com/nerdsfornature)
 
 ## Trails
 - [Open Trail Data](https://github.com/opentraildata)
