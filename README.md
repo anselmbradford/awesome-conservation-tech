@@ -11,6 +11,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Hardware](#hardware)
 - [Government GitHub](#government-github)
 - [Groups](#groups)
+- [Organization GitHub](#organization-github)
 - [Trails](#trails)
 
 ## Biodiversity
@@ -39,6 +40,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Groups
 - [Nerds for Nature](https://github.com/nerdsfornature)
+
+## Organization GitHub
+### Netherlands
+- [Naturalis Biodiversity Center](https://github.com/naturalis)
 
 ## Trails
 - [Open Trail Data](https://github.com/opentraildata)
