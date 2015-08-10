@@ -8,8 +8,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Biodiversity](#biodiversity)
 - [Climate](#climate)
-- [Hardware](#hardware)
 - [Government GitHub](#government-github)
+- [Hardware](#hardware)
 - [Organization GitHub](#organization-github)
 - [Trails](#trails)
 
@@ -21,22 +21,22 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Climate
 - [Apache Open Climate Workbench](https://github.com/apache/climate)
 
-## Hardware
-- [Open Energy Monitor](https://github.com/openenergymonitor) - Open-source energy monitoring tools.
-- [Conservation Drones](http://conservationdrones.org) - Share knowledge of building and using low-cost unmanned aerial vehicles for conservation-related applications.
-
 ## Government GitHub
+### United Kingdom
+- [Department of Energy and Climate Change (DECC)](https://github.com/decc)
+
 ### United States
 - [Environmental Protection Agency (EPA)](https://github.com/usepa)
-- [National Renewable Energy Laboratory (NREL)](https://github.com/NREL)
 - [Fish & Wildlife Service (FWS)](https://github.com/USFWS)
-- [National Park Service (NPS)](https://github.com/nationalparkservice)
 - National Oceanic and Atmospheric Administration (NOAA):
   - [NOAA Fisheries National Marine Mammal Lab (NMML)](https://github.com/NMML)
   - [NOAA Geophysical Fluid Dynamics Laboratory (GFDL)](https://github.com/noaa-gfdl)
+- [National Park Service (NPS)](https://github.com/nationalparkservice)
+- [National Renewable Energy Laboratory (NREL)](https://github.com/NREL)
 
-### United Kingdom
-- [Department of Energy and Climate Change (DECC)](https://github.com/decc)
+## Hardware
+- [Conservation Drones](http://conservationdrones.org) - Share knowledge of building and using low-cost unmanned aerial vehicles for conservation-related applications.
+- [Open Energy Monitor](https://github.com/openenergymonitor) - Open-source energy monitoring tools.
 
 ## Organization GitHub
 ### Netherlands
@@ -46,8 +46,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Nerds for Nature](https://github.com/nerdsfornature)
 
 ## Trails
-- [Open Trail Data](https://github.com/opentraildata)
 - [New Zealand Great Walks app](https://github.com/greatwalks)
+- [Open Trail Data](https://github.com/opentraildata)
 
 
 ## Contribute
