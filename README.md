@@ -43,6 +43,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Netherlands
 - [Naturalis Biodiversity Center](https://github.com/naturalis)
 
+### Slovenia
+- [Changing Weathers](http://www.changingweathers.net/en/episodes) - Networked responses to geophysical, geopolitical and technological shifts across Europe.
+
 ### United States
 - [Nerds for Nature](https://github.com/nerdsfornature)
 
