@@ -11,6 +11,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Government GitHub](#government-github)
 - [Hardware](#hardware)
 - [Organization GitHub](#organization-github)
+- [Tracking](#tracking)
 - [Trails](#trails)
 
 ## Biodiversity
@@ -44,6 +45,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Naturalis Biodiversity Center](https://github.com/naturalis) - Leiden, the Netherlands based biodiversity center.
 - [Nerds for Nature](https://github.com/nerdsfornature) - San Francisco Bay Area group bringing together nature and tech.
 - [Zooniverse](https://github.com/zooniverse) - people-powered research with a number of conservation-focused applications.
+
+## Tracking
+- [Pamguard](http://sourceforge.net/projects/pamguard/) - Detection, classification, and localisation of marine mammals.
 
 ## Trails
 - [New Zealand Great Walks app](https://github.com/greatwalks)
