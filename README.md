@@ -40,14 +40,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [YoMo Metering Board](http://yomo.sourceforge.net/) - YoMo (You only meter once) metering unit, designed for industry and researchers to create new energy system applications.
 
 ## Organization GitHub
-### Netherlands
-- [Naturalis Biodiversity Center](https://github.com/naturalis)
-
-### Slovenia
 - [Changing Weathers](http://www.changingweathers.net/en/episodes) - Networked responses to geophysical, geopolitical and technological shifts across Europe.
-
-### United States
-- [Nerds for Nature](https://github.com/nerdsfornature)
+- [Naturalis Biodiversity Center](https://github.com/naturalis) - Leiden, the Netherlands based biodiversity center.
+- [Nerds for Nature](https://github.com/nerdsfornature) - San Francisco Bay Area group bringing together nature and tech.
+- [Zooniverse](https://github.com/zooniverse) - people-powered research with a number of conservation-focused applications.
 
 ## Trails
 - [New Zealand Great Walks app](https://github.com/greatwalks)
