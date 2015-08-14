@@ -50,6 +50,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Tracking
 - [Pamguard](http://sourceforge.net/projects/pamguard/) - Detection, classification, and localisation of marine mammals.
+- [Ornithokrites](https://github.com/tracek/Ornithokrites) - Automatic identification of kiwi calls from audio recordings.
 
 ## Trails
 - [New Zealand Great Walks app](https://github.com/greatwalks)
