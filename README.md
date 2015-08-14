@@ -6,13 +6,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
+- [Animal Tracking](#animal-tracking)
 - [Biodiversity](#biodiversity)
 - [Climate](#climate)
 - [Government GitHub](#government-github)
 - [Hardware](#hardware)
 - [Organization GitHub](#organization-github)
-- [Tracking](#tracking)
 - [Trails](#trails)
+
+## Animal Tracking
+- [Ornithokrites](https://github.com/tracek/Ornithokrites) - Automatic identification of kiwi calls from audio recordings.
+- [Pamguard](http://sourceforge.net/projects/pamguard/) - Detection, classification, and localisation of marine mammals.
 
 ## Biodiversity
 - [Atlas of Living Australia](https://github.com/AtlasOfLivingAustralia/)
@@ -49,10 +53,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Royal Society for the Protection of Birds (RSPB)](https://github.com/RSPB)
 - [United Nations Environment Programme - World Conservation Monitoring Centre (UNEP-WCMC)](https://github.com/unepwcmc) - Executive agency of the UN Environment Programme, based in Cambridge, UK.
 - [Zooniverse](https://github.com/zooniverse) - people-powered research with a number of conservation-focused applications.
-
-## Tracking
-- [Pamguard](http://sourceforge.net/projects/pamguard/) - Detection, classification, and localisation of marine mammals.
-- [Ornithokrites](https://github.com/tracek/Ornithokrites) - Automatic identification of kiwi calls from audio recordings.
 
 ## Trails
 - [New Zealand Great Walks app](https://github.com/greatwalks)
