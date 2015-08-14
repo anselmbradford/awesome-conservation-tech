@@ -27,6 +27,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Department of Energy and Climate Change (DECC)](https://github.com/decc)
 
 ### United States
+- [Department of the Interior (DOI)](http://www.doi.gov)
 - [Environmental Protection Agency (EPA)](https://github.com/usepa)
 - [Fish & Wildlife Service (FWS)](https://github.com/USFWS)
 - National Oceanic and Atmospheric Administration (NOAA):
