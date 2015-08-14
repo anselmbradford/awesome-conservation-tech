@@ -9,10 +9,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Animal Tracking](#animal-tracking)
 - [Biodiversity](#biodiversity)
 - [Climate](#climate)
-- [Forests](#forests)
 - [Government GitHub](#government-github)
 - [Hardware](#hardware)
 - [Organization GitHub](#organization-github)
+- [Sustainability](#sustainability)
 - [Trails](#trails)
 
 ## Animal Tracking
@@ -27,9 +27,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Climate
 - [Apache Open Climate Workbench](https://github.com/apache/climate)
-
-## Forests
-- [Global Forest Watch (GFW)](https://github.com/Vizzuality/gfw) -  Online forest monitoring and alert system for better management of forests.
 
 ## Government GitHub
 ### United Kingdom
@@ -57,6 +54,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Royal Society for the Protection of Birds (RSPB)](https://github.com/RSPB)
 - [United Nations Environment Programme - World Conservation Monitoring Centre (UNEP-WCMC)](https://github.com/unepwcmc) - Executive agency of the UN Environment Programme, based in Cambridge, UK.
 - [Zooniverse](https://github.com/zooniverse) - people-powered research with a number of conservation-focused applications.
+
+## Sustainability
+- [Global Fishing Watch](https://github.com/GlobalFishingWatch) - Technology Illuminating the World's Fishing Fleet.
+- [Global Forest Watch (GFW)](https://github.com/Vizzuality/gfw) -  Online forest monitoring and alert system for better management of forests.
 
 ## Trails
 - [New Zealand Great Walks app](https://github.com/greatwalks)
