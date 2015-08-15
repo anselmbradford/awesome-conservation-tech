@@ -16,6 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Trails](#trails)
 
 ## Animal Tracking
+- [Mataki](http://mataki.org/) - open, reconfigurable, flexible, wirelessly-enabled, low-cost tracking technology.
 - [Ornithokrites](https://github.com/tracek/Ornithokrites) - Automatic identification of kiwi calls from audio recordings.
 - [Pamguard](http://sourceforge.net/projects/pamguard/) - Detection, classification, and localisation of marine mammals.
 
