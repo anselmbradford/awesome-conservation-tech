@@ -52,6 +52,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Changing Weathers](http://www.changingweathers.net/en/episodes) - Networked responses to geophysical, geopolitical and technological shifts across Europe.
 - [Naturalis Biodiversity Center](https://github.com/naturalis) - Leiden, the Netherlands based biodiversity center.
 - [Nerds for Nature](https://github.com/nerdsfornature) - San Francisco Bay Area group bringing together nature and tech.
+- [Public Lab](https://github.com/publiclab) - A community for DIY environmental investigation.
 - [Royal Society for the Protection of Birds (RSPB)](https://github.com/RSPB)
 - [United Nations Environment Programme - World Conservation Monitoring Centre (UNEP-WCMC)](https://github.com/unepwcmc) - Executive agency of the UN Environment Programme, based in Cambridge, UK.
 - [Zooniverse](https://github.com/zooniverse) - people-powered research with a number of conservation-focused applications.
