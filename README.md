@@ -50,6 +50,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Organization GitHub
 - [Changing Weathers](http://www.changingweathers.net/en/episodes) - Networked responses to geophysical, geopolitical and technological shifts across Europe.
+- [Data Science for Social Good (DSSG)](https://github.com/dssg)
 - [Naturalis Biodiversity Center](https://github.com/naturalis) - Leiden, the Netherlands based biodiversity center.
 - [Nerds for Nature](https://github.com/nerdsfornature) - San Francisco Bay Area group bringing together nature and tech.
 - [Public Lab](https://github.com/publiclab) - A community for DIY environmental investigation.
@@ -60,6 +61,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Sustainability
 - [Global Fishing Watch](https://github.com/GlobalFishingWatch) - Technology Illuminating the World's Fishing Fleet.
 - [Global Forest Watch (GFW)](https://github.com/Vizzuality/gfw) -  Online forest monitoring and alert system for better management of forests.
+- [Energywise](https://github.com/dssg/energywise) - energy analytics tool to make commercial building more energy efficient.
 
 ## Trails
 - [New Zealand Great Walks app](https://github.com/greatwalks)
