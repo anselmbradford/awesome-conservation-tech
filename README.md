@@ -62,7 +62,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Sustainability
 - [Global Fishing Watch](https://github.com/GlobalFishingWatch) - Technology Illuminating the World's Fishing Fleet.
 - [Global Forest Watch (GFW)](https://github.com/Vizzuality/gfw) -  Online forest monitoring and alert system for better management of forests.
-- [Energywise](https://github.com/dssg/energywise) - energy analytics tool to make commercial building more energy efficient.
+- [Energywise](https://github.com/dssg/energywise) - Energy analytics tool to make commercial building more energy efficient.
+- [Open Foris](https://github.com/openforis) - Free open-source solutions for environmental monitoring.
 
 ## Trails
 - [New Zealand Great Walks app](https://github.com/greatwalks)
