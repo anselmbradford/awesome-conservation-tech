@@ -22,6 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Biodiversity
 - [Atlas of Living Australia](https://github.com/AtlasOfLivingAustralia/)
+- [BirdVis](https://github.com/ViDA-NYU/birdvis) - interactive visualization system that supports the analysis of spatio-temporal bird distribution models.
 - [Macaulay Library at the Cornell Lab of Ornithology](https://github.com/MacaulayLibrary) - World’s largest natural sound archive. Digitized bird calls.
 - [Map of Life](https://github.com/MapOfLife)
 - [Global Biodiversity Information Facility](https://github.com/gbif) - Free and Open Access to Biodiversity Data.
