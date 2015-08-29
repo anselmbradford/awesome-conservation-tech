@@ -27,6 +27,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Macaulay Library at the Cornell Lab of Ornithology](https://github.com/MacaulayLibrary) - World’s largest natural sound archive. Digitized bird calls.
 - [Map of Life](https://github.com/MapOfLife)
 - [Global Biodiversity Information Facility](https://github.com/gbif) - Free and Open Access to Biodiversity Data.
+- [Vermont Reptile & Amphibian Atlas](http://vtherpatlas.org/) - Collects and disseminates data needed to make informed recommendations regarding Vermont’s reptiles and amphibians.
 
 ## Climate
 - [Apache Open Climate Workbench](https://github.com/apache/climate)
@@ -65,6 +66,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Global Fishing Watch](https://github.com/GlobalFishingWatch) - Technology Illuminating the World's Fishing Fleet.
 - [Global Forest Watch (GFW)](https://github.com/Vizzuality/gfw) -  Online forest monitoring and alert system for better management of forests.
 - [Energywise](https://github.com/dssg/energywise) - Energy analytics tool to make commercial building more energy efficient.
+- [New California Water Atlas](https://github.com/NewCaliforniaWaterAtlas) - Makes data about California water resources more open and transparent.
 - [Open Foris](https://github.com/openforis) - Free open-source solutions for environmental monitoring.
 
 ## Trails
