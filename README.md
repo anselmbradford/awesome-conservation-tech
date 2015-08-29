@@ -19,6 +19,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mataki](http://mataki.org/) - open, reconfigurable, flexible, wirelessly-enabled, low-cost tracking technology.
 - [Ornithokrites](https://github.com/tracek/Ornithokrites) - Automatic identification of kiwi calls from audio recordings.
 - [Pamguard](http://sourceforge.net/projects/pamguard/) - Detection, classification, and localisation of marine mammals.
+- [Quail Ridge Automated Animal Tracking](https://github.com/QRAAT/QRAAT) - Tracking system used in Quail Ridge Reserve in Napa County, California.
 
 ## Biodiversity
 - [Atlas of Living Australia](https://github.com/AtlasOfLivingAustralia/)
