@@ -53,6 +53,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [YoMo Metering Board](http://yomo.sourceforge.net/) - YoMo (You only meter once) metering unit, designed for industry and researchers to create new energy system applications.
 
 ## Organization GitHub
+- [Conservation Biology Informatics Group](https://github.com/cbig)
 - [Changing Weathers](http://www.changingweathers.net/en/episodes) - Networked responses to geophysical, geopolitical and technological shifts across Europe.
 - [Data Science for Social Good (DSSG)](https://github.com/dssg)
 - [iNaturalist](https://github.com/inaturalist/) - Global online social network of naturalists.
