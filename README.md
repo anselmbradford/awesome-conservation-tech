@@ -49,6 +49,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Hardware
 - [Air Quality Egg](http://airqualityegg.com) - community-led air quality sensing network.
 - [Conservation Drones](http://conservationdrones.org) - Share knowledge of building and using low-cost unmanned aerial vehicles for conservation-related applications.
+- [GreenSTEM Network](https://github.com/GreenSTEM-Network) - Connects students to the environment by monitoring and mining data using low-cost, DIY sensor kits and open source code.
 - [Open Energy Monitor](https://github.com/openenergymonitor) - Open-source energy monitoring tools.
 - [YoMo Metering Board](http://yomo.sourceforge.net/) - YoMo (You only meter once) metering unit, designed for industry and researchers to create new energy system applications.
 
