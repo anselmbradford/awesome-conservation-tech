@@ -16,14 +16,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Trails](#trails)
 
 ## Animal Tracking
-- [Mataki](http://mataki.org/) - open, reconfigurable, flexible, wirelessly-enabled, low-cost tracking technology.
+- [Mataki](http://mataki.org/) - Open, reconfigurable, flexible, wirelessly-enabled, low-cost tracking technology.
 - [Ornithokrites](https://github.com/tracek/Ornithokrites) - Automatic identification of kiwi calls from audio recordings.
 - [Pamguard](http://sourceforge.net/projects/pamguard/) - Detection, classification, and localisation of marine mammals.
 - [Quail Ridge Automated Animal Tracking](https://github.com/QRAAT/QRAAT) - Tracking system used in Quail Ridge Reserve in Napa County, California.
 
 ## Biodiversity
 - [Atlas of Living Australia](https://github.com/AtlasOfLivingAustralia/)
-- [BirdVis](https://github.com/ViDA-NYU/birdvis) - interactive visualization system that supports the analysis of spatio-temporal bird distribution models.
+- [BirdVis](https://github.com/ViDA-NYU/birdvis) - Interactive visualization system that supports the analysis of spatio-temporal bird distribution models.
 - [Macaulay Library at the Cornell Lab of Ornithology](https://github.com/MacaulayLibrary) - World’s largest natural sound archive. Digitized bird calls.
 - [Map of Life](https://github.com/MapOfLife)
 - [Global Biodiversity Information Facility](https://github.com/gbif) - Free and Open Access to Biodiversity Data.
@@ -47,7 +47,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [National Renewable Energy Laboratory (NREL)](https://github.com/NREL)
 
 ## Hardware
-- [Air Quality Egg](http://airqualityegg.com) - community-led air quality sensing network.
+- [Air Quality Egg](http://airqualityegg.com) - Community-led air quality sensing network.
 - [Conservation Drones](http://conservationdrones.org) - Share knowledge of building and using low-cost unmanned aerial vehicles for conservation-related applications.
 - [GreenSTEM Network](https://github.com/GreenSTEM-Network) - Connects students to the environment by monitoring and mining data using low-cost, DIY sensor kits and open source code.
 - [Open Energy Monitor](https://github.com/openenergymonitor) - Open-source energy monitoring tools.
@@ -65,7 +65,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Royal Botanical Gardens, Kew](https://github.com/RBGKew)
 - [Royal Society for the Protection of Birds (RSPB)](https://github.com/RSPB)
 - [United Nations Environment Programme - World Conservation Monitoring Centre (UNEP-WCMC)](https://github.com/unepwcmc) - Executive agency of the UN Environment Programme, based in Cambridge, UK.
-- [Zooniverse](https://github.com/zooniverse) - people-powered research with a number of conservation-focused applications.
+- [Zooniverse](https://github.com/zooniverse) - People-powered research with a number of conservation-focused applications.
 
 ## Sustainability
 - [Global Fishing Watch](https://github.com/GlobalFishingWatch) - Technology Illuminating the World's Fishing Fleet.
