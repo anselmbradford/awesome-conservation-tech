@@ -58,6 +58,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Conservation Biology Informatics Group](https://github.com/cbig)
 - [Changing Weathers](http://www.changingweathers.net/en/episodes) - Networked responses to geophysical, geopolitical and technological shifts across Europe.
 - [Data Science for Social Good (DSSG)](https://github.com/dssg)
+- [EcoTrust](https://github.com/Ecotrust)
 - [iNaturalist](https://github.com/inaturalist/) - Global online social network of naturalists.
 - [National Center for Ecological Analysis and Synthesis (NCEAS)](https://github.com/nceas) - Research center of the University of California, Santa Barbara.
 - [Naturalis Biodiversity Center](https://github.com/naturalis) - Leiden, the Netherlands based biodiversity center.
