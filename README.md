@@ -75,6 +75,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Sustainability
 - [Global Fishing Watch](https://github.com/GlobalFishingWatch) - Technology Illuminating the World's Fishing Fleet.
 - [Global Forest Watch (GFW)](https://github.com/Vizzuality/gfw) -  Online forest monitoring and alert system for better management of forests.
+- [Global Institute of Sustainability](https://github.com/gios-asu) - Arizona State University Julie Ann Wrigley Global Institute of Sustainability.
 - [Energywise](https://github.com/dssg/energywise) - Energy analytics tool to make commercial building more energy efficient.
 - [New California Water Atlas](https://github.com/NewCaliforniaWaterAtlas) - Makes data about California water resources more open and transparent.
 - [Open Foris](https://github.com/openforis) - Free open-source solutions for environmental monitoring.
