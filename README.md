@@ -57,6 +57,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Organization GitHub
 - [Conservation Biology Informatics Group](https://github.com/cbig)
+- [Conservation Hackathon](https://github.com/ConsHack) - Tackling conservation challenges through technology events.
 - [Changing Weathers](http://www.changingweathers.net/en/episodes) - Networked responses to geophysical, geopolitical and technological shifts across Europe.
 - [Data Science for Social Good (DSSG)](https://github.com/dssg)
 - [Digital Naturalism](http://www.digitalnaturalism.org) - Investigates the role that Digital Media can play in Biological Field Work.
