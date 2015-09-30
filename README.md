@@ -32,6 +32,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Climate
 - [Apache Open Climate Workbench](https://github.com/apache/climate)
+- [Clifro](https://github.com/ropensci/clifro) - Easily download and visualise climate data from New Zealand's National Climate Database.
 
 ## Government GitHub
 ### United Kingdom
