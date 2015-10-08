@@ -33,7 +33,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Climate
 - [Apache Open Climate Workbench](https://github.com/apache/climate)
 - [Clifro](https://github.com/ropensci/clifro) - Easily download and visualise climate data from New Zealand's National Climate Database.
-- [Code for Resilience](http://www.codeforresilience.org) - catalyzing software and hardware innovations that improve communities' ability to address challenges around natural disasters.
+- [Code for Resilience](http://www.codeforresilience.org) - Catalyzing software and hardware innovations that improve communities' ability to address challenges around natural disasters.
 
 ## Government GitHub
 ### United Kingdom
