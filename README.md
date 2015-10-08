@@ -25,7 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Atlas of Living Australia](https://github.com/AtlasOfLivingAustralia/)
 - [BirdVis](https://github.com/ViDA-NYU/birdvis) - Interactive visualization system that supports the analysis of spatio-temporal bird distribution models.
 - [Macaulay Library at the Cornell Lab of Ornithology](https://github.com/MacaulayLibrary) - World’s largest natural sound archive. Digitized bird calls.
-- [Map of Life](https://github.com/MapOfLife)
+- [Map of Life](https://github.com/MapOfLife) - Explore species' range map and occurrence data.
 - [Global Biodiversity Information Facility](https://github.com/gbif) - Free and Open Access to Biodiversity Data.
 - [SMART](https://www.assembla.com/spaces/smart-cs/) - Spatial Monitoring and Reporting Tool for monitoring anti-poaching operations.
 - [Vermont Reptile & Amphibian Atlas](http://vtherpatlas.org/) - Collects and disseminates data needed to make informed recommendations regarding Vermont’s reptiles and amphibians.
