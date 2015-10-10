@@ -65,6 +65,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Digital Naturalism](http://www.digitalnaturalism.org) - Investigates the role that Digital Media can play in Biological Field Work.
 - [EcoTrust](https://github.com/Ecotrust)
 - [iNaturalist](https://github.com/inaturalist/) - Global online social network of naturalists.
+- [iPlant Collaborative](https://github.com/iPlantCollaborativeOpenSource) - Cyberinfrastructure for life sciences research.
 - [National Center for Ecological Analysis and Synthesis (NCEAS)](https://github.com/nceas) - Research center of the University of California, Santa Barbara.
 - [Naturalis Biodiversity Center](https://github.com/naturalis) - Leiden, the Netherlands based biodiversity center.
 - [Nerds for Nature](https://github.com/nerdsfornature) - San Francisco Bay Area group bringing together nature and tech.
