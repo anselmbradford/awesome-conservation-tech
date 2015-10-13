@@ -69,6 +69,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [National Center for Ecological Analysis and Synthesis (NCEAS)](https://github.com/nceas) - Research center of the University of California, Santa Barbara.
 - [Naturalis Biodiversity Center](https://github.com/naturalis) - Leiden, the Netherlands based biodiversity center.
 - [Nerds for Nature](https://github.com/nerdsfornature) - San Francisco Bay Area group bringing together nature and tech.
+- [Northwest National Marine Renewable Energy Center](https://github.com/nnmrec) - Wind, wave, & tidal energy research & development.
 - [Public Lab](https://github.com/publiclab) - A community for DIY environmental investigation.
 - [Rainforest Connection](https://github.com/rfcx) - Protecting rainforests with real-time data on illegal deforestation.
 - [Royal Botanical Gardens, Kew](https://github.com/RBGKew)
