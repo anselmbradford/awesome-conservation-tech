@@ -9,6 +9,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Animal Tracking](#animal-tracking)
 - [Biodiversity](#biodiversity)
 - [Climate](#climate)
+- [Energy](#energy)
 - [Government GitHub](#government-github)
 - [Hardware](#hardware)
 - [Organization GitHub](#organization-github)
@@ -34,6 +35,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Apache Open Climate Workbench](https://github.com/apache/climate)
 - [Clifro](https://github.com/ropensci/clifro) - Easily download and visualise climate data from New Zealand's National Climate Database.
 - [Code for Resilience](http://www.codeforresilience.org) - Catalyzing software and hardware innovations that improve communities' ability to address challenges around natural disasters.
+
+## Energy
+- [WattTime](https://github.com/WattTime) - Syncs electricity usage with clean energy sources.
+- [VOLTTRON](https://github.com/VOLTTRON/volttron) - Distributed energy control system for intelligently coordinating energy demand. 
 
 ## Government GitHub
 ### United Kingdom
