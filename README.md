@@ -56,6 +56,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Hardware
 - [AirCasting](http://aircasting.org) - Allows collection, display, and sharing of health and environmental data using a smartphone.
+- [AirPi](https://github.com/tomhartley/AirPi) - A Raspberry Pi weather station and air quality monitor.
 - [Air Quality Egg](http://airqualityegg.com) - Community-led air quality sensing network.
 - [Conservation Drones](http://conservationdrones.org) - Share knowledge of building and using low-cost unmanned aerial vehicles for conservation-related applications.
 - [GreenSTEM Network](https://github.com/GreenSTEM-Network) - Connects students to the environment by monitoring and mining data using low-cost, DIY sensor kits and open source code.
