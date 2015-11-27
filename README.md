@@ -37,8 +37,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Code for Resilience](http://www.codeforresilience.org) - Catalyzing software and hardware innovations that improve communities' ability to address challenges around natural disasters.
 
 ## Energy
+- [Energywise](https://github.com/dssg/energywise) - Energy analytics tool to make commercial building more energy efficient.
+- [Green Button](https://github.com/green-button/green-button.github.io) - Secure way to get your energy usage information electronically.
+- [VOLTTRON](https://github.com/VOLTTRON/volttron) - Distributed energy control system for intelligently coordinating energy demand.
 - [WattTime](https://github.com/WattTime) - Syncs electricity usage with clean energy sources.
-- [VOLTTRON](https://github.com/VOLTTRON/volttron) - Distributed energy control system for intelligently coordinating energy demand. 
+
 
 ## Government GitHub
 ### United Kingdom
@@ -87,8 +90,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Global Fishing Watch](https://github.com/GlobalFishingWatch) - Technology Illuminating the World's Fishing Fleet.
 - [Global Forest Watch (GFW)](https://github.com/Vizzuality/gfw) -  Online forest monitoring and alert system for better management of forests.
 - [Global Institute of Sustainability](https://github.com/gios-asu) - Arizona State University Julie Ann Wrigley Global Institute of Sustainability.
-- [Green Button](https://github.com/green-button/green-button.github.io) - Secure way to get your energy usage information electronically.
-- [Energywise](https://github.com/dssg/energywise) - Energy analytics tool to make commercial building more energy efficient.
 - [New California Water Atlas](https://github.com/NewCaliforniaWaterAtlas) - Makes data about California water resources more open and transparent.
 - [Open Foris](https://github.com/openforis) - Free open-source solutions for environmental monitoring.
 
