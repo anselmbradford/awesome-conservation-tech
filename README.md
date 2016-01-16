@@ -39,6 +39,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Energy
 - [Energywise](https://github.com/dssg/energywise) - Energy analytics tool to make commercial building more energy efficient.
 - [Green Button](https://github.com/green-button/green-button.github.io) - Secure way to get your energy usage information electronically.
+- [OpenORE](http://openore.org/) - Site for sharing offshore renewable energy (ORE) code, models, projects, data, media, etc.
 - [VOLTTRON](https://github.com/VOLTTRON/volttron) - Distributed energy control system for intelligently coordinating energy demand.
 - [WattTime](https://github.com/WattTime) - Syncs electricity usage with clean energy sources.
 
