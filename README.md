@@ -29,6 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Macaulay Library at the Cornell Lab of Ornithology](https://github.com/MacaulayLibrary) - World’s largest natural sound archive. Digitized bird calls.
 - [Map of Life](https://github.com/MapOfLife) - Explore species' range map and occurrence data.
 - [Global Biodiversity Information Facility](https://github.com/gbif) - Free and Open Access to Biodiversity Data.
+- [KoreAves](https://koreaves.com/) - Free interactive South Korean bird occurrence evidence atlas with regional maps, source provenance and data-coverage limitations.
 - [SMART](https://www.assembla.com/spaces/smart-cs/) - Spatial Monitoring and Reporting Tool for monitoring anti-poaching operations.
 - [Vermont Reptile & Amphibian Atlas](http://vtherpatlas.org/) - Collects and disseminates data needed to make informed recommendations regarding Vermont’s reptiles and amphibians.
 
